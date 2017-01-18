@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:drawablePadding="6dp"
+    android:lineSpacingExtra="3dp"
+    android:hint="宝宝奶粉"
+    android:textSize="16dp"
+    android:drawableLeft="@drawable/search_edit_icon"
+    android:background="@drawable/edit_bg">
+
+
+</EditText>
